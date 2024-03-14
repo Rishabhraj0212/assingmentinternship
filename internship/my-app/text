@@ -1,0 +1,78 @@
+ERROR
+Failed to execute 'createObjectURL' on 'URL': Overload resolution failed.
+TypeError: Failed to execute 'createObjectURL' on 'URL': Overload resolution failed.
+    at ProfileDisplay (http://localhost:3000/main.e357a029fa27c319ed19.hot-update.js:72:18)
+    at renderWithHooks (http://localhost:3000/static/js/bundle.js:24833:22)
+    at updateFunctionComponent (http://localhost:3000/static/js/bundle.js:27713:24)
+    at beginWork (http://localhost:3000/static/js/bundle.js:29425:20)
+    at HTMLUnknownElement.callCallback (http://localhost:3000/static/js/bundle.js:14429:18)
+    at Object.invokeGuardedCallbackDev (http://localhost:3000/static/js/bundle.js:14473:20)
+    at invokeGuardedCallback (http://localhost:3000/static/js/bundle.js:14530:35)
+    at beginWork$1 (http://localhost:3000/static/js/bundle.js:34394:11)
+    at performUnitOfWork (http://localhost:3000/static/js/bundle.js:33642:16)
+    at workLoopSync (http://localhost:3000/static/js/bundle.js:33565:9)
+ERROR
+Failed to execute 'createObjectURL' on 'URL': Overload resolution failed.
+TypeError: Failed to execute 'createObjectURL' on 'URL': Overload resolution failed.
+    at ProfileDisplay (http://localhost:3000/main.e357a029fa27c319ed19.hot-update.js:72:18)
+    at renderWithHooks (http://localhost:3000/static/js/bundle.js:24833:22)
+    at updateFunctionComponent (http://localhost:3000/static/js/bundle.js:27713:24)
+    at beginWork (http://localhost:3000/static/js/bundle.js:29425:20)
+    at HTMLUnknownElement.callCallback (http://localhost:3000/static/js/bundle.js:14429:18)
+    at Object.invokeGuardedCallbackDev (http://localhost:3000/static/js/bundle.js:14473:20)
+    at invokeGuardedCallback (http://localhost:3000/static/js/bundle.js:14530:35)
+    at beginWork$1 (http://localhost:3000/static/js/bundle.js:34394:11)
+    at performUnitOfWork (http://localhost:3000/static/js/bundle.js:33642:16)
+    at workLoopSync (http://localhost:3000/static/js/bundle.js:33565:9)
+ERROR
+Failed to execute 'createObjectURL' on 'URL': Overload resolution failed.
+TypeError: Failed to execute 'createObjectURL' on 'URL': Overload resolution failed.
+    at ProfileDisplay (http://localhost:3000/main.e357a029fa27c319ed19.hot-update.js:72:18)
+    at renderWithHooks (http://localhost:3000/static/js/bundle.js:24833:22)
+    at updateFunctionComponent (http://localhost:3000/static/js/bundle.js:27713:24)
+    at beginWork (http://localhost:3000/static/js/bundle.js:29425:20)
+    at HTMLUnknownElement.callCallback (http://localhost:3000/static/js/bundle.js:14429:18)
+    at Object.invokeGuardedCallbackDev (http://localhost:3000/static/js/bundle.js:14473:20)
+    at invokeGuardedCallback (http://localhost:3000/static/js/bundle.js:14530:35)
+    at beginWork$1 (http://localhost:3000/static/js/bundle.js:34394:11)
+    at performUnitOfWork (http://localhost:3000/static/js/bundle.js:33642:16)
+    at workLoopSync (http://localhost:3000/static/js/bundle.js:33565:9)
+ERROR
+Failed to execute 'createObjectURL' on 'URL': Overload resolution failed.
+TypeError: Failed to execute 'createObjectURL' on 'URL': Overload resolution failed.
+    at ProfileDisplay (http://localhost:3000/main.e357a029fa27c319ed19.hot-update.js:72:18)
+    at renderWithHooks (http://localhost:3000/static/js/bundle.js:24833:22)
+    at updateFunctionComponent (http://localhost:3000/static/js/bundle.js:27713:24)
+    at beginWork (http://localhost:3000/static/js/bundle.js:29425:20)
+    at HTMLUnknownElement.callCallback (http://localhost:3000/static/js/bundle.js:14429:18)
+    at Object.invokeGuardedCallbackDev (http://localhost:3000/static/js/bundle.js:14473:20)
+    at invokeGuardedCallback (http://localhost:3000/static/js/bundle.js:14530:35)
+    at beginWork$1 (http://localhost:3000/static/js/bundle.js:34394:11)
+    at performUnitOfWork (http://localhost:3000/static/js/bundle.js:33642:16)
+    at workLoopSync (http://localhost:3000/static/js/bundle.js:33565:9)
+ERROR
+Failed to execute 'createObjectURL' on 'URL': Overload resolution failed.
+TypeError: Failed to execute 'createObjectURL' on 'URL': Overload resolution failed.
+    at ProfileDisplay (http://localhost:3000/main.e357a029fa27c319ed19.hot-update.js:72:18)
+    at renderWithHooks (http://localhost:3000/static/js/bundle.js:24833:22)
+    at updateFunctionComponent (http://localhost:3000/static/js/bundle.js:27713:24)
+    at beginWork (http://localhost:3000/static/js/bundle.js:29425:20)
+    at HTMLUnknownElement.callCallback (http://localhost:3000/static/js/bundle.js:14429:18)
+    at Object.invokeGuardedCallbackDev (http://localhost:3000/static/js/bundle.js:14473:20)
+    at invokeGuardedCallback (http://localhost:3000/static/js/bundle.js:14530:35)
+    at beginWork$1 (http://localhost:3000/static/js/bundle.js:34394:11)
+    at performUnitOfWork (http://localhost:3000/static/js/bundle.js:33642:16)
+    at workLoopSync (http://localhost:3000/static/js/bundle.js:33565:9)
+ERROR
+Failed to execute 'createObjectURL' on 'URL': Overload resolution failed.
+TypeError: Failed to execute 'createObjectURL' on 'URL': Overload resolution failed.
+    at ProfileDisplay (http://localhost:3000/main.e357a029fa27c319ed19.hot-update.js:72:18)
+    at renderWithHooks (http://localhost:3000/static/js/bundle.js:24833:22)
+    at updateFunctionComponent (http://localhost:3000/static/js/bundle.js:27713:24)
+    at beginWork (http://localhost:3000/static/js/bundle.js:29425:20)
+    at beginWork$1 (http://localhost:3000/static/js/bundle.js:34372:18)
+    at performUnitOfWork (http://localhost:3000/static/js/bundle.js:33642:16)
+    at workLoopSync (http://localhost:3000/static/js/bundle.js:33565:9)
+    at renderRootSync (http://localhost:3000/static/js/bundle.js:33538:11)
+    at recoverFromConcurrentError (http://localhost:3000/static/js/bundle.js:33030:24)
+    at performConcurrentWorkOnRoot (http://localhost:3000/static/js/bundle.js:32943:26)
